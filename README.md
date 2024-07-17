@@ -1,2 +1,2 @@
-# Testing
-This repo is to test how github works for the IBM Data Science Course
+# IBM Data Science Certification
+This repo is the collection of all the notebooks I worked with for the course completion
